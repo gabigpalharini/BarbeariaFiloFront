@@ -23,7 +23,7 @@ function LoginAdm(): JSX.Element {
             <Image
             style={styles.logo}
             resizeMode="contain" 
-            source={require('../assets/images/adm.png')}/>
+            source={require('../assets/images/CAPIVARA.png')}/>
 
             <View style={styles.card} >
                 <Text style={styles.title} > Login Administrador </Text>

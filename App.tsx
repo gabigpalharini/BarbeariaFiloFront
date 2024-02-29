@@ -11,9 +11,9 @@ function App(): JSX.Element {
       
      // <LoginCliente />
 
-      //<LoginAdm />
+      <LoginAdm />
 
-      <LoginServico />
+     // <LoginServico />
       
     );
 }
