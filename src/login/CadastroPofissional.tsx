@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import{Image, StyleSheet, Text, TextInput, Touchable, TouchableOpacity, View} from "react-native";
-function CadastroCliente(): JSX.Element {
+function CadastroProfissional(): JSX.Element {
 
     const[email, setEmail] = useState("");
     const[password, setPassword] = useState("");
@@ -191,4 +191,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default CadastroCliente;
+export default CadastroProfissional;

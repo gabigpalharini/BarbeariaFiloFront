@@ -16,7 +16,9 @@ function App(): JSX.Element {
 
      // <LoginServico />
 
-     <CadastroCliente />
+     //<CadastroCliente />
+
+     <CadastroProfissional />
       
     );
 }
